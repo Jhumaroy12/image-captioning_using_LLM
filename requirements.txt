@@ -1,0 +1,6 @@
+torch
+transformers==4.37.2
+tokenizers==0.14.1
+Pillow
+nltk
+gradio
